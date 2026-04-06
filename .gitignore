@@ -1,0 +1,13 @@
+# 工作区备份 - .gitignore
+# 排除大文件和临时文件
+*.png
+*.zip
+*.msi
+*.exe
+*.log
+*.tmp
+node_modules/
+clawhub/
+.learnings/
+.openclaw/
+skills/
